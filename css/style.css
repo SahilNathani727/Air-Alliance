@@ -1,1 +1,26 @@
-/* */
+*{
+
+position: relative;
+}
+
+.mb-1{
+
+  background-color:#17a2b8;
+}
+
+
+.footer{
+
+position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ text-align: center;
+ color:white;
+ background-color:#17a2b8;
+}
+
+ .footer .footer-copyright a{
+   text-decoration: none;
+   color:white;
+ }
